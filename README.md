@@ -1,6 +1,6 @@
-### Hi there, I'm Roman 👋🏻
+### Hi there, I'm Aleksei 👋🏻
 
-👨‍💻 I'm a classic frontend developer.<br/>
+👨‍💻 I am a beginner frontend developer.<br/>
 
 <details>
   <summary>

@@ -78,9 +78,9 @@
     <img src="https://img.shields.io/badge/Audition-00005b?style=for-the-badge&logo=adobeaudition&logoColor=2fa0f2" />
     <img src="https://img.shields.io/badge/Final%20Cut-1c1c1c?style=for-the-badge" /> -->
     <img src="https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/Jira-247cf2?style=for-the-badge&logo=jira&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Jira-247cf2?style=for-the-badge&logo=jira&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
-    <a href="https://github.com/R1ON/patterns" target="_blank">
+    <!-- <a href="https://github.com/R1ON/patterns" target="_blank">
       <img src="https://img.shields.io/badge/Design%20Patterns-1c1c1c?style=for-the-badge" />
     </a> -->
     <br/>

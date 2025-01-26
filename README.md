@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <!-- <img src="https://img.shields.io/badge/React%20Query-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" /> -->
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Formik-FF5733?style=for-the-badge&logo=formik&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/Redux%20Toolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Redux%20Saga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
     <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
